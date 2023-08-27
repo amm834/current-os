@@ -1,0 +1,18 @@
+{
+  "name": "current-os-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "current-os.android-arm-eabi.node",
+  "files": [
+    "current-os.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
